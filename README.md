@@ -2,7 +2,7 @@
 
 ### 使用Next.js 13 和 Pocketbase构建一个带有增加和查寻功能的笔记应用demo 
 
-
+[nextjs](https://nextjs.org)
 ![](https://s3.bmp.ovh/imgs/2023/02/17/1f3ad094668983f9.gif)
 
 ### 本应用构建的步骤
