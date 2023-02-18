@@ -1,7 +1,7 @@
 ## Next 13 + Pocketbase
 
-### Build a note-taking app with Next.js 13 and Pocketbase. 
-使用Next.js 13 和 Pocketbase构建一个带有增加和查寻功能的笔记应用demo 
+### 使用Next.js 13 和 Pocketbase构建一个带有增加和查寻功能的笔记应用demo 
+
 
 ![](https://s3.bmp.ovh/imgs/2023/02/17/1f3ad094668983f9.gif)
 
